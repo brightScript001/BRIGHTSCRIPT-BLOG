@@ -1,0 +1,15 @@
+{
+  "name": "brightscript-blog",
+  "version": "1.0.0",
+  "description": "This project is a simple blog website created using HTML, CSS, and JavaScript. The primary goal of this project is to provide a foundation for a personal blog, allowing users to share their thoughts, experiences, and content in a straightforward manner.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
